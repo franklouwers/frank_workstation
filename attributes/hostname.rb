@@ -1,0 +1,1 @@
+node.default["machine_name"] = "Tembo"
