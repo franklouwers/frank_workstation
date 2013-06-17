@@ -1,3 +1,4 @@
+WS_HOME=node['current_user']
 fontfile="#{WS_HOME}/Library/Fonts/SourceCodePro-Regular.otf"
 
 ruby_block "Install SourceCodePro Fonts" do
