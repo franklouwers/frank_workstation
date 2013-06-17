@@ -5,4 +5,4 @@ execute "tap the dupes repo" do
     not_if { system("brew tap | grep 'dupes' > /dev/null 2>&1") }
 end
 
-brew_install "whois"
+brew "whois"
